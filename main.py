@@ -46,3 +46,4 @@ results = collection.query(
 )
 
 print(results["documents"])
+# https://chatgpt.com/share/6981fe78-fe14-800a-9d57-72ea4d93bcfc
